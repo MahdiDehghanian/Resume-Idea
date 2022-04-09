@@ -1,0 +1,127 @@
+@font-face {
+    font-family: yekan;
+    src: url('font/Yekan.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: tani;
+    src: url('font/Tanha-FD.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.all{
+    background-color: gainsboro;
+}
+.main{
+    background-image: url("images/e94e47bcc42dcd5a567d550156d0e27b.jpg");
+    padding:30px;
+    text-align: right;
+    color: white;
+    font-family: yekan;
+    height:2400px;
+}
+.main img {
+    width: 99%;
+    border: 5px white solid;
+    border-radius: 5px;
+}
+
+.f-p {
+    line-height: 2px;
+  }
+.somedia img{
+    width: 15%;
+    border-radius: 20px;
+    margin-top:10px;
+}
+.left-side {
+    background-color: white;
+    width: 100%;
+    margin-right: -15px;
+    font-family: yekan;
+}
+/***********************casual***************/
+.matn{
+    text-align: right;
+    color: gray;
+    font-size: large;
+    margin-top: 10px;
+    line-height: 30px;
+}
+.header{
+    text-align: right;
+    padding: 120px;
+    padding-right: 50px;
+    margin-top: -30px;
+}
+.iner-line {
+    margin-top: 5px;
+    float: right;
+    width: 140px;
+    background-color: gainsboro;
+    height: 4px;
+}
+.ax-rastia img {
+    width: 80%;
+}
+.matn-axa {
+    margin-left: -20px; !important;
+}
+.matn-axa a {
+    font-size: x-large;
+}
+.box {
+    width: auto;
+    background-color: gainsboro;
+    color: #515151;
+    padding: 1px 10px 1px 10px;
+    border-radius: 7px;
+    margin-left: 10px;
+}
+.box a {
+    font-size: large;
+}
+.shahrivar {
+    margin-top: 8px;
+}
+.maharat p{
+    font-size: 20px;
+}
+.box-maharat-1 {
+    color: white;
+    float: right;
+    background-color:#32aea6;
+    width: 180px;
+    height: 27px;
+    border-radius: 5px;
+    padding: 3px;
+}
+.box-maharat-2 {
+    background-color: #0cbf39;
+    color: white;
+    float: right;
+    width: 180px;
+    height: 27px;
+    border-radius: 5px;
+    padding: 3px;
+}
+.ball-1 {
+    background-color:#6b02db ;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.ball-2 {
+    background-color:#22a5cd ;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.ball-3 {
+    background-color:#32aea6;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
